@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="en"><Esri><CreaDate>20231014</CreaDate><CreaTime>14133100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\Rename" Date="20231014" Time="141331">Rename C:\Users\Stephen\Code\python_for_arcgis_pro\Data\TxDOT_National_Highway_System.shp C:\Users\Stephen\Code\python_for_arcgis_pro\Data\Highway.shp ShapeFile</Process></lineage></DataProperties></Esri></metadata>
