@@ -13,7 +13,7 @@ This repository contains materials for the Introduction to Python for ArcGIS Pro
 
 `Intro to Python Slides.pdf` PDF copy of a Google Slides presentation that includes workshop introduction, along with instructions on getting course materials from the GitHub repo, running the notebook, and creating an ArcGIS Pro Script Tool.
 
-`Running Python With ArcGIS Pro.pdf` PDF copy of a Google Slides presentation that shows how to use the ArcGIS Pro installation of Python 2 in a variety of ways.
+`Running Python With ArcGIS Pro.pdf` PDF copy of a Google Slides presentation that shows how to use the ArcGIS Pro installation of Python 3 in a variety of ways.
 
 `Data` A folder that contains sample data for use in the workshop. Includes various shapefiles and IntroToPython geodatabase.
 
